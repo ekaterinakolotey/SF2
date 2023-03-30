@@ -1,2 +1,3 @@
 myfirst git file
 created changes
+fixing text
